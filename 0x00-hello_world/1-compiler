@@ -1,3 +1,2 @@
 #!/bin/bash
-#This Code compiles c files but dose not link any of it
 gcc -c $CFILE
